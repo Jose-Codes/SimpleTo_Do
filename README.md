@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/KEePEjf' title='Simple ToDo App' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wIBcmQC.gif' title='Simple ToDo App' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
